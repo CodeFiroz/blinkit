@@ -1,5 +1,4 @@
 
-````
 # Blinkit — Frontend Clone
 
 Production-ready front-end clone of the Blinkit homepage UI, built with React + Vite and styled using Tailwind CSS. This repo contains the static frontend (no backend) and a deployable build currently hosted on Netlify.
@@ -43,7 +42,6 @@ Source: https://github.com/CodeFiroz/blinkit. :contentReference[oaicite:2]{index
    ```bash
    git clone https://github.com/CodeFiroz/blinkit.git
    cd blinkit
-````
 
 2. Install dependencies
 
